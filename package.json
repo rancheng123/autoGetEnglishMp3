@@ -1,0 +1,9 @@
+{
+  "name": "mydreamplusbusiness",
+  "version": "1.0.0",
+  "devDependencies": {
+    "progress-stream": "^2.0.0",
+    "request": "^2.88.0"
+  },
+  "dependencies": {}
+}
